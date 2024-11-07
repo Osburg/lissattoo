@@ -36,3 +36,8 @@ The amplitude, frequency and phase parameters can be interpreted as birthdates (
 
 ![image](./lissattoo.png)
 
+My sister, my brother and I picked up the idea of encoding our birthdays in a Lissattoo,
+this is what it looks like
+
+![image](./lissattoo_real.png)
+
