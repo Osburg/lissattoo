@@ -1,6 +1,7 @@
 # Lissattoo
-A Lissajous curve is a two-dimensional curve, which can be written as 
+ 
 This repo provides a small script that creates tattoo motives inspired by [Lissajous curves](https://de.wikipedia.org/wiki/Lissajous-Figur).
+A Lissajous curve is a two-dimensional curve, which can be written as
 
 $$x_1(t) = A_1 \sin(\omega_1 \cdot t + \phi_1)$$
 $$x_2(t) = A_2 \sin(\omega_2 \cdot t + \phi_2),$$
